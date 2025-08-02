@@ -1,5 +1,5 @@
 langchain>=0.1.0
-groq>=0.1.0               # Replace with the official Groq client if different
+langchain-groq==0.1.9
 python-dotenv>=1.0.0      # Secure API keys from .env
 streamlit>=1.28.0
 PyMuPDF>=1.22.0           # Fast and reliable PDF parser
