@@ -71,12 +71,11 @@ To ensure a clean and secure repository, the following are excluded using .gitig
 
 ## Intended Users
 
-- Undergraduate and postgraduate engineering students
-- Course instructors and academic departments
+- students of 24 Batch IPNGE MUET Jamshoro
 - AI developers building education-specific tools
 
-## Author and Credits
+## Author 
 
 Developed by Engr. Mukhtiar Ali Talpur  
 Mehran University of Engineering & Technology, Jamshoro  
-Department of Petroleum and Natural Gas Engineering
+Institute  of Petroleum and Natural Gas Engineering
