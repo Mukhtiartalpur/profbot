@@ -10,3 +10,7 @@ numpy>=1.24.0             # Needed by FAISS and LangChain utilities
 pdfminer.six>=20221105    # In case PyMuPDF doesn’t cover all needs
 pandas>=2.0.0             # For structured data handling (e.g., quiz results)
 markdown>=3.4.0           # If you want nicely formatted outputs
+sentence-transformers
+transformers
+torch
+
