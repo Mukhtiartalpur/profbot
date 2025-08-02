@@ -1,0 +1,11 @@
+langchain>=0.1.0
+groq>=0.1.0               # Replace with the official Groq client if different
+python-dotenv>=1.0.0      # Secure API keys from .env
+streamlit>=1.28.0
+PyMuPDF>=1.22.0           # Fast and reliable PDF parser
+faiss-cpu>=1.7.4          # Vector store for document search
+tiktoken>=0.5.1           # Useful for token count estimation
+numpy>=1.24.0             # Needed by FAISS and LangChain utilities
+pdfminer.six>=20221105    # In case PyMuPDF doesn’t cover all needs
+pandas>=2.0.0             # For structured data handling (e.g., quiz results)
+markdown>=3.4.0           # If you want nicely formatted outputs
